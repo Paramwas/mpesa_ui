@@ -41,48 +41,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA3D27WnuvrxowsX3F1Dxr7TXtiQy2q_tI',
-    appId: '1:238679620786:web:7b22ffaa2c4d75a1a11dab',
-    messagingSenderId: '238679620786',
-    projectId: 'mpepe-3abe9',
-    authDomain: 'mpepe-3abe9.firebaseapp.com',
-    storageBucket: 'mpepe-3abe9.firebasestorage.app',
-    measurementId: 'G-67M1WTKE0J',
+  //add Your API DETAILS HERE FOR WEB
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB1X7_mw-Jf1mD0S7_CBkDmtzFTbwZDsUo',
-    appId: '1:238679620786:android:5372ac335481e545a11dab',
-    messagingSenderId: '238679620786',
-    projectId: 'mpepe-3abe9',
-    storageBucket: 'mpepe-3abe9.firebasestorage.app',
+    //add Your API DETAILS HERE FOR ANDROID
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBM2Mc-yO3IUmzaaJWPgg6eKCV5yXuuCSw',
-    appId: '1:238679620786:ios:47a337aa528ec196a11dab',
-    messagingSenderId: '238679620786',
-    projectId: 'mpepe-3abe9',
-    storageBucket: 'mpepe-3abe9.firebasestorage.app',
-    iosBundleId: 'com.example.mpesa',
+   //add Your API DETAILS HERE FOR IOS
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBM2Mc-yO3IUmzaaJWPgg6eKCV5yXuuCSw',
-    appId: '1:238679620786:ios:47a337aa528ec196a11dab',
-    messagingSenderId: '238679620786',
-    projectId: 'mpepe-3abe9',
-    storageBucket: 'mpepe-3abe9.firebasestorage.app',
-    iosBundleId: 'com.example.mpesa',
+     //add Your API DETAILS HERE FOR MACOS
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA3D27WnuvrxowsX3F1Dxr7TXtiQy2q_tI',
-    appId: '1:238679620786:web:2f3753fc7870806da11dab',
-    messagingSenderId: '238679620786',
-    projectId: 'mpepe-3abe9',
-    authDomain: 'mpepe-3abe9.firebaseapp.com',
-    storageBucket: 'mpepe-3abe9.firebasestorage.app',
-    measurementId: 'G-Z298PM1JD5',
+ //add Your API DETAILS HERE FOR WINDOWS
   );
 }
